@@ -8,4 +8,4 @@ ala*bu*ga
 - [x] proga
 - [ ] ~~programming~~
 <http:pstu.ru>
-[text](http:pstu.ru "pstu")
+[politex](http:pstu.ru "pstu")
