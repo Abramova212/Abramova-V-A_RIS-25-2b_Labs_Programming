@@ -5,6 +5,6 @@ ala*bu*ga
 ~~alabuga~~
 >project
 >>githab
-- [w] ~
-- [ ww] ~
-- [www] ~
+- [x] proga
+- [ ] ~~prog~~
+- [x] 
