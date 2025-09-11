@@ -7,5 +7,7 @@ ala*bu*ga
 >>githab
 - [x] proga
 - [ ] ~~programming~~
-<http://pstu.ru/>
+<http://pstu.ru>
 [politech](http:pstu.ru "pstu")
+[politech][url_pstu]
+[url_pstu]: http:pstu.ru 'rr' 
