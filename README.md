@@ -5,8 +5,5 @@ ala*bu*ga
 ~~alabuga~~
 >project
 >>githab
-* 1
-* 2
-* 3
-* 4
-* 5
+- [nnn] ~
+- [ ] ~
