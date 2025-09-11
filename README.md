@@ -6,5 +6,5 @@ ala*bu*ga
 >project
 >>githab
 - [x] proga
-- [ ] ~~prog~~
+- [ ] ~~programming~~
 - [x] 
