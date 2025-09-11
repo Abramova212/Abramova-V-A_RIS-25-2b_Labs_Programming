@@ -7,6 +7,5 @@ ala*bu*ga
 >>githab
 - [x] proga
 - [ ] ~~programming~~
-1. hh
-   1.gg
-    
+<http:pstu.ru>
+[text](http:pstu.ru "pstu")
